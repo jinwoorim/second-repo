@@ -1,4 +1,5 @@
+Edit
 
-for i in range(1, 10):
-     if i%3==0:
-    print('hello')
+for _in range(10):
+print('hello')
+
